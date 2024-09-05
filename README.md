@@ -1,5 +1,5 @@
 # README.md for oss project
-## 23101177 컴퓨터공학과 박재홍
+## 23101177 Park Jae Hong
 
 ```python
 print("Hello world");
